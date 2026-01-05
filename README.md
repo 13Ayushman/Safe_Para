@@ -1,11 +1,11 @@
-# Safe_Para
+ Safe_Para
 Project Vision
 
 Safe-Para is a specialized urban intelligence platform designed to address the unique infrastructure and safety challenges of West Bengal. By combining standardized geospatial data architecture with real-time Generative AI, the project transforms raw urban data into actionable safety insights for citizens and municipal planners.
 
-#Core Components
+Core Components
 
-##1. The Data Architecture (The Brain)
+1. The Data Architecture (The Brain)
 
 Developed by [Friend's Name], this component establishes a rigorous framework for neighborhood-level ("Para") auditing.
 
@@ -19,7 +19,7 @@ Visibility: Street lighting density and "natural surveillance" from commercial a
 
 Emergency Access: Evaluation of lane widths and rapid-response route viability.
 
-##2. The Geospatial Engine (The Eyes)
+2. The Geospatial Engine (The Eyes)
 
 The interface acts as the diagnostic layer, turning architectural rules into a visual experience.
 
@@ -29,7 +29,7 @@ Interactive Mapping: Powered by Leaflet.js, featuring a custom "Safety Heatmap" 
 
 Actionable Output: Provides localized civil recommendations (e.g., LED cluster installation, cable ducting) based on specific neighborhood topography.
 
-#How it Works
+How it Works
 
 Search: A user enters a locality (e.g., "Gariahat, Kolkata").
 
@@ -39,7 +39,7 @@ Analyze: The AI evaluates the location against the Safe-Para Data Architecture p
 
 Report: A "Para-Level" report is generated, offering a CSI score, a list of localized hazards, and remediation steps.
 
-#Technological Stack
+Technological Stack
 
 Frontend: React (CDN), Tailwind CSS, Lucide-Icons.
 
