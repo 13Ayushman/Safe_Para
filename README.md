@@ -29,6 +29,14 @@ Interactive Mapping: Powered by Leaflet.js, featuring a custom "Safety Heatmap" 
 
 Actionable Output: Provides localized civil recommendations (e.g., LED cluster installation, cable ducting) based on specific neighborhood topography.
 
+## Architecture & Map Layer
+
+Map and data architecture adapted from:
+https://github.com/tanmay1333/safe-para-map-data-architecture
+
+Used as a modular geospatial reference for Safe-Para.
+
+
 How it Works
 
 Search: A user enters a locality (e.g., "Gariahat, Kolkata").
