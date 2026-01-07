@@ -50,7 +50,7 @@ Analyze: The AI evaluates the location against the Safe-Para Data Architecture p
 
 Report: A "Para-Level" report is generated, offering a CSI score, a list of localized hazards, and remediation steps.
 
-##Technological Stack
+## Technological Stack
 
 Frontend: React (CDN), Tailwind CSS, Lucide-Icons.
 
