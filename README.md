@@ -40,7 +40,7 @@ https://github.com/tanmay1333/safe-para-map-data-architecture
 Used as a modular geospatial reference for Safe-Para.
 
 
-##How it Works
+## How it Works:
 
 Search: A user enters a locality (e.g., "Gariahat, Kolkata").
 
@@ -58,8 +58,10 @@ Mapping: Leaflet.js & OpenStreetMap API.
 
 Intelligence: Google Gemini 2.5 Flash (Generative AI).
 
+Deployed on: Google Firebase.
+
 Data Model: Custom JSON Schema for West Bengal Urban Resilience.
 
-##The "Para Guardian" Mission
+## The "Para Guardian" Mission:
 
 Safe-Para is more than a map; it is a tool for civic empowerment. By standardizing how we measure "safety" across the diverse neighborhoods of West Bengal, we create a common language for urban improvement and emergency preparedness.
