@@ -10,7 +10,7 @@ Core Components
 
 1. The Data Architecture (The Brain)
 
-Developed by [Friend's Name], this component establishes a rigorous framework for neighborhood-level ("Para") auditing.
+Developed by us, this component establishes a rigorous framework for neighborhood-level ("Para") auditing.
 
 Composite Safety Index (CSI): A weighted scoring system that moves beyond subjective opinions to data-driven metrics.
 
